@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi , I'm DILLESWARA RAO<br>student at Godavari Institute Of Engineering and Technology, 3rd year AI&ML<br>always excited to work ona new projects</h2>
 
 ###
 
@@ -26,11 +26,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/dilleswara-rao-goddu-8404452a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://www.hackerrank.com/profile/dilleswararaogo1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
